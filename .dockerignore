@@ -1,0 +1,15 @@
+.env
+.venv
+node_modules
+.next
+__pycache__
+**/.venv
+**/node_modules
+**/.next
+**/__pycache__
+**/.pytest_cache
+*.py[cod]
+*.db
+model_artifacts/*.joblib
+backend/models/*.joblib
+.git
